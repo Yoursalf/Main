@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!--<link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>-->
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+<!-- 可选的Bootstrap主题文件（一般不用引入） -->
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+<link rel="stylesheet" href="stylesheets/font-awesome.css">
+<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="http://cdn.bootcss.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="javascripts/stickUp-master/stickUp.min.js"></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>Stone  一个程序猿的主页</title>
+  </head>
+
+  <body>
+    <header id='home'>
+      <div class="inner">
+        <h1>Stone</h1>
+        <h2>我是个程序猿，我是昆汀的忠实粉丝，喜欢任何好玩的东西。</h2>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h3>
+<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+
+<p>欢迎大家来到我的 <code>github</code> 主页，首先非常感谢github提供这个平台给我这种码农，还有感谢 <code>bootstrap</code> 和 <code>jquery</code> 的开发者们，你们再一次改变了web开发的世界~</p>
+
+<p>如果你也想拥有这样的一个主页，请使用 <code>git</code> 然后创建如下分支：</p>
+<pre><code>$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout gh-pages
+</code></pre>
+
+
+<h3>
+<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>个人简历.</h3>
+<div >
+<div class="row bs-callout bs-callout-warning">
+  <div class="col-xs-6 col-md-3">
+    <span class="thumbnail">
+      <img src="images/large_y3jP_48e600000e83118f.jpg" alt="...">
+    </span>
+  </div>
+
+  <div class="col-xs-6 col-md-3 ">
+    <div class=" thumbnail active panel panel-primary" >
+    <div class="panel-heading">
+    <b class="panel-title">姓名:</b>
+    </div>
+    <div class="panel-body"> 施磊 </div>
+    
+    </div>
+
+    <div class=" thumbnail active  panel-info" style="margin-top:-8px">
+    <div class="panel-heading">
+    <b class="panel-title">电话:</b>
+    </div>
+    <div class="panel-body"> 13816376064 </div>
+    
+    </div>
+
+
+  </div>
+
+<div class="col-xs-6 col-md-3 ">
+    <div class=" thumbnail active panel panel-primary" >
+    <div class="panel-heading">
+    <b class="panel-title">性别:</b>
+    </div>
+    <div class="panel-body"> 男 </div>
+    
+    </div>
+
+    <div class=" thumbnail active  panel-info" style="margin-top:-8px">
+    <div class="panel-heading">
+    <b class="panel-title">年龄:</b>
+    </div>
+    <div class="panel-body"> 25 </div>
+    
+    </div>
+
+    
+  </div>
+
+  <div class="col-xs-6 col-md-3 ">
+    <div class=" thumbnail active panel panel-primary" >
+    <div class="panel-heading">
+    <b class="panel-title">职业:</b>
+    </div>
+    <div class="panel-body"> PHP工程师 </div>
+    
+    </div>
+
+    <div class=" thumbnail active panel  panel-info" style="margin-top:-8px">
+    <div class="panel-heading">
+    <b class="panel-title">邮箱:</b>
+    </div>
+    <div class="panel-body"> <a  href="mailto:slzszs@126.com?subject=我想邀请你来面试" />slzszs@126.com</a> </div>
+    
+    </div>
+
+    
+  </div>
+
+
+  </div>
+
+  
+
+
+</div>
+
+<h3>
+<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>工作经验.</h3>
+<div class="row">
+
+
+<div class="col-sm-5 thumbnail">
+<article class="excerpt">
+
+<b class="excerpt-title big">
+<i class="icon-home"></i> &nbsp;<a href="http://www.tonglukuaijian.com/" target='_blank'> 上海通路快建网络服务外包有限公司</a> </p>
+</b>
+<span><i class="icon-calendar"></i> &nbsp;<span class="label label-info"> 2012-12-31 </span> &nbsp;- <span class="label label-info"> &nbsp; 至今 &nbsp; </span></span>
+<p></p>
+<section class="excerpt-meta">
+<div class="excerpt-tags">
+<span class="glyphicon glyphicon-tag"></span>&nbsp;
+<span>PHP 工程师</span>
+、
+<span>开发组长</span>
+、
+<span>实习PM</span>
+</div>
+</section>
+</article>
+</div>
+
+
+
+<div class="col-sm-5 thumbnail" style='margin-left:110px'>
+<article class="excerpt">
+
+<b class="excerpt-title big">
+<i class="icon-home"></i> &nbsp; <a href="http://www.admaster.com.cn/" target='_blank'> 精硕科技</a> </p>
+</b>
+<span><i class="icon-calendar"></i> &nbsp;<span class="label label-info"> 2011-03-01 </span> &nbsp;- <span class="label label-info"> 2012-12-31 </span></span>
+<p></p>
+<section class="excerpt-meta">
+<div class="excerpt-tags">
+<span class="glyphicon glyphicon-tag"></span>&nbsp;
+<span>PHP 工程师</span>
+、
+<span>广告监测</span>
+、
+<span>创业型公司</span>
+</div>
+</section>
+</article>
+</div>
+
+<div class="col-sm-5 thumbnail">
+<article class="excerpt">
+
+<b class="excerpt-title big">
+<i class="icon-home"></i> &nbsp;<a href="http://www.husenji.com/" target='_blank'> 花笙记 </a> </p>
+</b>
+<span><i class="icon-calendar"></i> &nbsp;<span class="label label-info"> 2010-06-01 </span> &nbsp;- <span class="label label-info"> 2011-03-01  </span></span>
+<p></p>
+<section class="excerpt-meta">
+<div class="excerpt-tags">
+<span class="glyphicon glyphicon-tag"></span>&nbsp;
+<span>PHP 工程师</span>
+、
+<span>实习</span>
+、
+<span>什么都干</span>
+</div>
+</section>
+</article>
+</div>
+
+<div class="col-sm-5 thumbnail" style='margin-left:110px'>
+  <span><i class="icon-calendar"></i> &nbsp; <code>4</code>&nbsp;年工作时间</span>
+  <p></p>
+  <span><i class="icon-random"></i> &nbsp; 换过&nbsp;<code>2</code>&nbsp;次工作 </span>
+  <p></p>
+  <span><i class="icon-check"></i> &nbsp; 一直在&nbsp;<code>coding</code></span>
+</div>
+</div>
+
+<h3>
+<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>专业技能.
+</h3>
+
+<div class='row'>
+
+   <div class="col-sm-6 col-md-4" style='margin-left: -20px'>
+    <div class="thumbnail">
+    <img class="lazy" width="200" height="150" alt="PHP" data-src="images/git-guide.png" src="images/php.jpg">
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4" style='margin-left: 10px'>
+    <div class="thumbnail">
+    <img class="lazy" width="200" height="150" alt="Git Guide" data-src="images/git-guide.png" src="images/git-guide.png">
+    </div>
+  </div>
+
+ 
+
+<div class="col-sm-6 col-md-4" style='margin-left: 10px'>
+    <div class="thumbnail">
+    <img class="lazy" width="200" height="150" alt="MYSQL" data-src="images/mysql.jpg" src="images/mysql.jpg">
+    </div>
+  </div>
+<div class="col-sm-6 col-md-4" style='margin-left: -20px'>
+    <div class="thumbnail">
+    <img class="lazy" width="200" height="150" alt="JQUERY" data-src="images/JQuery.jpg" src="images/JQuery.jpg">
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4" style='margin-left: 10px'>
+    <div class="thumbnail">
+    <img class="lazy" width="200" height="150" alt="LINUX" data-src="http://static.bootcss.com/www/assets/img/git-guide.png" src="images/linux.jpg">
+    </div>
+  </div>
+
+<div class="col-sm-6 col-md-4" style='margin-left: 10px'>
+    <div class="thumbnail">
+    <img class="lazy" width="200" height="150" alt="PMP" data-src="http://static.bootcss.com/www/assets/img/git-guide.png" src="images/PMP.jpg">
+    </div>
+  </div>
+</div>
+
+
+<h3>
+<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>项目经验.</h3>
+
+<div class="row">
+<div class="col-sm-6 col-md-4" >
+<div class="thumbnail">
+  <div class='thumbnail' >
+<img alt="100%x200" data-src="holder.js/100%x200" src="images/logo.png"  >
+</div>
+<div class="caption">
+<a href='http://www.yjh.com' target='_blank'>yjh.com</a>
+<p>一句话生意网(www.yjh.com )，为用户提供“免费、快速、真实”的生意信息发布服务.</p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+   <div class='thumbnail' >
+<img alt="planMaster" data-src="holder.js/100%x200"  src="images/plan.png">
+</div>
+<div class="caption">
+<a href='http://www.admaster.com.cn/zh-cn/technology/products.html?prdMore' target='_blank'>planmaster.com</a>
+<p>一个服务广告主和媒介的平台，能够帮助广告主快速的找到自己所有投放的广告位.</p>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+   <div class='thumbnail' >
+<img alt="yjh.com" data-src="holder.js/100%x200"  src="images/husj.png">
+</div>
+<div class="caption">
+<a href='http://www.husenji.com/' target='_blank'>husenji.com/</a>
+<p>一个知名时尚潮牌唐装的官网，独立完成开发以及一系列任务。</p>
+
+</div>
+</div>
+
+</div>
+
+
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+   <div class='thumbnail' >
+<img alt="yjh.com" data-src="holder.js/100%x200"  src="images/retail.png">
+</div>
+<div class="caption">
+<a href='http://www.admaster.com.cn/zh-cn/technology/products.html?prdMore' target='_blank'>retailMaster.com.cn/</a>
+<p>电商数据一站式分析与处理平台。</p>
+
+</div>
+</div>
+
+</div>
+
+
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+   <div class='thumbnail' >
+<img alt="yjh.com" data-src="holder.js/100%x200"  src="images/intro-1.png">
+</div>
+<div class="caption">
+<a href='http://www.admaster.com.cn/zh-cn/technology/products.html?prdMore' target='_blank'>trackmaster.com.cn/</a>
+<p>更懂中国的全流程广告投放管理平台。</p>
+
+</div>
+</div>
+
+</div>
+
+
+
+
+
+</div>
+<h3>
+<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>自我介绍.</h3>
+
+<p>热爱生活，喜欢旅游，互联网改变生活的坚定拥护者。爱一切新鲜玩意，老婆眼中的非典型码农，同事眼中的无下限逗比。</p>
+
+        </section>
+
+        <aside id="sidebar">
+         <div class="span2">
+          <div class="stickUp">
+            <ul class="list-group">
+              <li class="list-group-item">
+            <a  class="btn" href="#home" /><i class="icon-arrow-up"></i> 看不下去了~</a>
+          </li>
+          <li class="list-group-item">
+             <a class="btn" href="mailto:slzszs@126.com?subject=我想邀请你来面试" /><i class="icon-envelope"></i> 邮件联系我~</a>
+           </li>
+             <li class="list-group-item">
+             <a  class="btn" href="mailto:slzszs@126.com?subject=我想邀请你来面试" /><i class="icon-download-alt"></i> 想看看简历~</a>
+           </li>
+           </ul>
+          </div>
+        </div>
+        </aside>
+      </div>
+    </div>
+
+   <script type="text/javascript"> //initiating jQuery 
+   jQuery(function($) { 
+   $(document).ready( function() { //enabling stickUp on the '.navbar-wrapper' class 
+    $('.stickUp').stickUp({
+    }
+
+      ); 
+
+  }); 
+ }); 
+   </script>
+  </body>
+</html>
